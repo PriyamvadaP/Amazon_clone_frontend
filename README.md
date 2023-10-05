@@ -1,5 +1,6 @@
 # Amazon Website Clone (Frontend only)
-
+Here's a screenshot of what the project's first page looks like:
+<img src="https://github.com/PriyamvadaP/Amazon_clone_frontend/blob/main/WebOutput.jpeg" alt="Amazon home page" />
 
 ## Table of Contents
 
